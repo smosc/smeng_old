@@ -35,4 +35,3 @@ Documentation on SMEng, primarily its libs - basic stats, potential alternatives
 | **Σ unoptimised**:| **79.7 kb**       |
 
 
-- OS
