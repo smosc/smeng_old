@@ -26,12 +26,12 @@ Documentation on SMEng, primarily its libs - basic stats, potential alternatives
 
 - - -
 
-| Lib           | Size          |
-| ------------- |:-------------:|
+| Remote Lib | Size  |
+| -------- |:----:|
 | LoDash| 25.1 kb|
 | SJCL| 25.3 kb |
-| qoopido| 18.9 kb       |
-| Bliss| 10.4 kb       |
-| **Σ unoptimised**:| **79.7 kb**       |
+| qoopido| 18.9 kb |
+| Bliss| 10.4 kb|
+| **Σ unoptimised**:| **79.7 kb** |
 
 
