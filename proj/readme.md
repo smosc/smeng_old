@@ -14,7 +14,7 @@ Documentation on SMEng, primarily its libs - basic stats, potential alternatives
 - [SJCL](https://github.com/bitwiseshiftleft/sjcl) (_25.3 kb_ @ [cdnjs](https://cdnjs.cloudflare.com/ajax/libs/sjcl/1.0.6/sjcl.min.js)) - Stanford Javascript Crypto Library
 
 - [qoopido.demand](https://github.com/dlueth/qoopido.demand) (_18.9 kb_) - File loader using promises + localstorage cache
-     > Alternative to [PromiseJS](https://www.promisejs.org/)/[BasketJS](https://addyosmani.com/basket.js/) - use qoopido due to better caching techniques
+     > Alternative to [PromiseJS](https://www.promisejs.org/)/[BasketJS](https://addyosmani.com/basket.js/) - use qoopido due to being a nice mix of both alternatives
      
 - [BlissfulJS](https://github.com/leaverou/bliss/) (_10.4 kb_ @ [cdnjs](https://cdnjs.cloudflare.com/ajax/libs/blissfuljs/1.0.4/bliss.min.js)) - Nicer JS; DOM manipulation & chaining jQuery inspired, without the overheads!
      > Alternatives: jQuery (too clunky), [SprintJS](https://github.com/bendc/sprint) (Requires performance tests), [BitsyCode](https://www.bitsycode.com/) While very small (_7.1 kb_), it doesn't offer XHR methods like Blissful 
