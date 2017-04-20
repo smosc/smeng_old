@@ -26,7 +26,7 @@ Documentation on SMEng, primarily its libs - basic stats, potential alternatives
      > Alternative to [PromiseJS](https://www.promisejs.org/)/[BasketJS](https://addyosmani.com/basket.js/) - use qoopido due to being a nice mix of both alternatives
      
 - [BlissfulJS](https://github.com/leaverou/bliss/) (_10.4 kb_ @ [cdnjs](https://cdnjs.cloudflare.com/ajax/libs/blissfuljs/1.0.4/bliss.min.js)) - Nicer JS; DOM manipulation & chaining jQuery inspired, without the overheads!
-     > Alternatives: jQuery (too slow), [SprintJS](https://github.com/bendc/sprint) (Requires performance tests), [BitsyCode](https://www.bitsycode.com/) While very small (_7.1 kb_), it doesn't offer XHR methods like Blissful, [Umbrella](https://github.com/franciscop/umbrella) - Likely candiate - adapt and optimise with LoDash(?)
+     > Alternatives: jQuery (too slow), [SprintJS](https://github.com/bendc/sprint) (Requires performance tests), [BitsyCode](https://www.bitsycode.com/) While very small (_7.1 kb_), it doesn't offer XHR methods like Blissful, [Umbrella](https://github.com/franciscop/umbrella) - jQuery like performance - which aint that good.
 
 - [Template Resource](http://foundation.zurb.com/building-blocks/) - Material themed
 
