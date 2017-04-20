@@ -1,6 +1,6 @@
-# SMEng Frontend Libs
+# SMEng Remote Libs
 
-Documentation on SMEng, primarily its libs - basic stats, potential alternatives and why they weren't used.
+Documentation on CDN libs for SMEng, basic stats, potential alternatives and why they weren't used.
 
 - RESTful + AMD modal
 - Built for function chaining
