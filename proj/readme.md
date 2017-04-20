@@ -8,7 +8,7 @@
 - Built for function chaining
 - In-browser crypto on sensitive data
 
-## Lib Data
+## Library Data
 _Documentation on CDN libs for SMEng, basic stats, potential alternatives and why they weren't used._
 
 - [Scripts](/proj/scripts.md) - where the chemistry happens
