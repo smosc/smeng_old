@@ -20,3 +20,5 @@ Documentation on SMEng, primarily its libs - basic stats, potential alternatives
 - [qoopido.demand](https://github.com/dlueth/qoopido.demand) (_18.9 kb_) - File loader using promises + localstorage cache
      > Alternative to [PromiseJS](https://www.promisejs.org/)/[BasketJS](https://addyosmani.com/basket.js/) - use qoopido due to better caching techniques
      
+- [BlissfulJS](https://github.com/leaverou/bliss/) (_10.4 kb_ @ [cdnjs](https://cdnjs.cloudflare.com/ajax/libs/blissfuljs/1.0.4/bliss.min.js)) - Nicer JS; DOM manipulation & chaining jQuery inspired, without the overheads!
+     > Alternatives: jQuery (too clunky), [SprintJS](https://github.com/bendc/sprint) (Requires performance tests)
