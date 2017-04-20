@@ -1,13 +1,5 @@
 # SMEng Remote Libs
 
-Documentation on CDN libs for SMEng, basic stats, potential alternatives and why they weren't used.
-
-- RESTful + AMD modal
-- Built for function chaining
-- In-browser crypto on sensitive data
-
-- - -
-
 - [LoDash](https://github.com/lodash/lodash/) (_25.1 kb_ @ [cdnjs](https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.4/lodash.min.js)) - Object manipulation
      > Alternative to [UnderscoreJS](https://github.com/jashkenas/underscore) -- I chose performance superiority over ease of use 
 
