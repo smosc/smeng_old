@@ -8,15 +8,6 @@ Documentation on SMEng, primarily its libs - basic stats, potential alternatives
 
 - - -
 
-| Lib           | Size          |
-| ------------- |:-------------:|
-| LoDash| 25.1 kb|
-| SJCL| 25.3 kb |
-| qoopido| 18.9 kb       |
-| Bliss| 10.4 kb       |
-| **Σ unoptimised**:| **79.7 kb**       |
-- - -
-
 - [LoDash](https://github.com/lodash/lodash/) (_25.1 kb_ @ [cdnjs](https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.4/lodash.min.js)) - Object manipulation
      > Alternative to [UnderscoreJS](https://github.com/jashkenas/underscore) -- I chose performance superiority over ease of use 
 
@@ -32,3 +23,16 @@ Documentation on SMEng, primarily its libs - basic stats, potential alternatives
 
 > ## Rejected:
 > - [KnockoutJS](http://knockoutjs.com/index.html) (_59 kb_) // [VueJS](https://github.com/vuejs/vue) (_74.9 kb_) -- Too large, and don't contribute enough at the moment.
+
+- - -
+
+| Lib           | Size          |
+| ------------- |:-------------:|
+| LoDash| 25.1 kb|
+| SJCL| 25.3 kb |
+| qoopido| 18.9 kb       |
+| Bliss| 10.4 kb       |
+| **Σ unoptimised**:| **79.7 kb**       |
+
+
+- OS
