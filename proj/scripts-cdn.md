@@ -11,6 +11,8 @@
 - [BlissfulJS](https://github.com/leaverou/bliss/) (_10.4 kb_ @ [cdnjs](https://cdnjs.cloudflare.com/ajax/libs/blissfuljs/1.0.4/bliss.min.js)) - Nicer JS; DOM manipulation & chaining jQuery inspired, without the overheads!
      > Alternatives: jQuery (too slow), [SprintJS](https://github.com/bendc/sprint) (Requires performance tests), [BitsyCode](https://www.bitsycode.com/) While very small (_7.1 kb_), it doesn't offer XHR methods like Blissful, [Umbrella](https://github.com/franciscop/umbrella) - jQuery like performance - which aint that good.
 
+- [bpg2jpg](https://cdn.rawgit.com/flaki/bpg2jpg/master/bpg2jpg-noasm.js) (_213 kb - lazy load_) - Javascript BPG decoder
+
 - [Template Resource](http://foundation.zurb.com/building-blocks/) - Material themed
 
 > ## Rejected:
@@ -24,6 +26,9 @@
 | SJCL| 25.3 kb |
 | qoopido| 18.9 kb |
 | Bliss| 10.4 kb|
+| bpg2jpg\*| 213 kb|
 | **Σ unoptimised**:| **79.7 kb** |
+| **Σ inc laz\***:| **292.7 kb** |
+
 
 
