@@ -13,4 +13,4 @@ _Documentation on CDN libs for SMEng, basic stats, potential alternatives and wh
 
 - [Scripts](/proj/scripts.md) - where the chemistry happens
 - [Remote Scripts](/proj/scripts-cdn.md) - std libs, deployed via cdn
-- [Script Infrastructure](/proj/scripts-infr.md) - process overview of data (comming soon)
+- [Script Infrastructure](/proj/scripts-infr.md) - process overview of data (coming soon)
